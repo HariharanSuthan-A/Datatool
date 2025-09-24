@@ -12,7 +12,7 @@ pip install -e .
 
 - From GitHub (replace with your repo URL):
 ```bash
-pip install git+https://github.com/your-user/your-repo.git
+pip install git+https://github.com/HariharanSuthan-A/Datatool.git
 ```
 
 ## CLI
