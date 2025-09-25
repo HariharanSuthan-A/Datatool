@@ -5,16 +5,13 @@ description = "Lightweight CSV data analyzer with REPL and plotting"
 readme = "README.md"
 requires-python = ">=3.8"
 license = { text = "MIT" }
-authors = [{ name = "Your Name" }]
+authors = [{ name = "Hariharan" }]
 dependencies = [
   "numpy>=1.24.0",
   "pandas>=2.0.0",
   "matplotlib>=3.7.0",
 ]
 
-[project.urls]
-Homepage = "https://github.com/your-user/your-repo"
-Repository = "https://github.com/your-user/your-repo"
 
 [project.scripts]
 datatool = "datatool.cli:main"
