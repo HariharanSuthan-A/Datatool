@@ -10,7 +10,7 @@ python -m venv .venv && source .venv/bin/activate
 pip install -e .
 ```
 
-- From GitHub (replace with your repo URL):
+- From GitHub
 ```bash
 pip install git+https://github.com/HariharanSuthan-A/Datatool.git
 ```
